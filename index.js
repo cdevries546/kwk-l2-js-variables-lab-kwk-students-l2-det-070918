@@ -1,2 +1,3 @@
-// Code your solution in this file!
+// Code your solution in thisfile!
 let companyName = 'Scuber';
+companyName = "Scuber";
